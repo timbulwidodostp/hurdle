@@ -1,6 +1,8 @@
 # hurdle
 Hurdle Models for Count Data Regression Use hurdle (pscl) With (In) R Software
 
+hurdle (pscl) With (In) R Software
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
